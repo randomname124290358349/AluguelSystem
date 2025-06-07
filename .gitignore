@@ -1,0 +1,30 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.idea
+
+# Django
+*.log
+*.pot
+*.pyc
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+**/migrations/
+!**/migrations/__init__.py
+
+# Arquivos de configuração sensíveis
+.env
+
+# Claude
+.claude
+
+# Ignorar pasta de media
+media/
