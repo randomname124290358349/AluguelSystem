@@ -83,6 +83,7 @@ source .venv/bin/activate  # Linux/macOS
 
 ```bash
 # Aplicar migrações
+uv run python manage.py makemigrations
 uv run python manage.py migrate
 
 # Criar superusuário para acessar o admin
