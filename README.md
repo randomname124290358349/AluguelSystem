@@ -2,6 +2,8 @@
 
 Sistema de gestão para aluguel de equipamentos desenvolvido em Django. Permite o cadastro de clientes, equipamentos e controle completo de aluguéis com cálculo automático de valores.
 
+![image](https://github.com/user-attachments/assets/93d7cd6a-caab-4199-9070-b1a8eb541596)
+
 ## ⚠️ AVISO IMPORTANTE DE SEGURANÇA
 
 > **🔒 Este projeto foi desenvolvido exclusivamente para execução em ambiente local (localhost).**
